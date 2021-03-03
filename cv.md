@@ -14,4 +14,4 @@
 *ISEI BSU, Faculty of Environmental Medicine
 *SBMT BSU, Refresher course Web-design
 **Languages:**
-* English - B1
+*English - B1
