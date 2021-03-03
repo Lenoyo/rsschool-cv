@@ -1,17 +1,17 @@
-#Korzhov Evgeny Sergeevich
+# Korzhov Evgeny Sergeevich
 **Contacts:** 
-*e-mail: gasaifag@gmail.com
+* e-mail: gasaifag@gmail.com
 **Personal Qualities:**
-*learning agility
-*team player
-*have good communication skills
+* learning agility
+* team player
+* have good communication skills
 **Personal profile:**
-*CSS
-*HTML
-*CoreJS
-*work with SQL
+* CSS
+* HTML
+* CoreJS
+* work with SQL
 **Education:**
-*ISEI BSU, Faculty of Environmental Medicine
-*SBMT BSU, Refresher course Web-design
+* ISEI BSU, Faculty of Environmental Medicine
+* SBMT BSU, Refresher course Web-design
 **Languages:**
-*English - B1
+* English - B1
